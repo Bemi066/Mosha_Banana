@@ -1,0 +1,52 @@
+header {
+    background-color: rgb(252, 243, 230) ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 20px 20px 20px 20px この書き方もあり*/
+    
+    padding: 20px;
+}
+
+.logo {
+    color: rosybrown;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.menu {
+    color: rgb(201, 138, 86);
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.content1 {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.content1 h1 {
+    color: rgb(245, 176, 143);
+    margin-bottom: 40px;
+}
+
+.content1 p {
+    color: rosybrown;
+    margin-bottom: 40px;
+}
+
+.content1 a{
+    color: rgb(255, 255, 255);
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+    text-decoration: none;
+    background-color: lightpink;
+}
